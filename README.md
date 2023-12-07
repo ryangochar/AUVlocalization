@@ -32,8 +32,6 @@ https://github.com/cybergalactic/MSS
 
 https://github.com/Aceinna/gnss-ins-sim
 
-[pykalman](https://pykalman.github.io/#)
-
 # <ins> Usage </ins>
 Excecute code [here](https://github.com/ryangochar/AUVlocalization/blob/main/AUV_OpenLoopDR_Final.ipynb)
 
@@ -52,9 +50,13 @@ Brandon Davis - brandon.davis1@ufl.edu
 # <ins> References </ins> 
 
 [Accurate indoor positioning with ultra-wide band sensors](https://journals.tubitak.gov.tr/cgi/viewcontent.cgi?article=1398&context=elektrik)
+
 [Improved Dead Reckoning Localization using IMU Sensor](https://ieeexplore.ieee.org/document/10010239)
+
 [A New Approach to Linear Filtering and Prediction Problems](https://asmedigitalcollection.asme.org/fluidsengineering/article-abstract/82/1/35/397706/A-New-Approach-to-Linear-Filtering-and-Prediction?redirectedFrom=fulltext)
+
 [Accuracy analysis of DVL/IMU/magnetometer integrated navigation system using different IMUs in AUV](https://ieeexplore.ieee.org/document/5524143)
+
 T. I. Fossen, Handbook of Marine Craft Hydrodynamics and Motion Control
 
 # Thank You! 
