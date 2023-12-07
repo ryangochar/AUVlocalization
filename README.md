@@ -30,6 +30,9 @@ https://github.com/cybergalactic/MSS
 ### Python
 https://github.com/Aceinna/gnss-ins-sim
 
+### pykalman
+https://pykalman.github.io/#
+
 # Usage
 Excecute code [here](https://github.com/ryangochar/AUVlocalization/blob/main/AUV_OpenLoopDR_Final.ipynb)
 
@@ -42,6 +45,7 @@ Distributed under the University of Florida licinse.
 
 # Authors
 Ryan Gochar - ryangochar@ufl.edu
+
 Brandon Davis - brandon.davis1@ufl.edu
 
 ### Thank You! 
