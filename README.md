@@ -1,10 +1,13 @@
 ## About The Project 
 This project seeks to create a dead reckoning algorithm for AUV localization using an IMU, also exploring into the performance with the integration of other inputs, position and velocity updates with GPS and DVL.  The dataset is simulated IMU data using the parameters of the Bosch BNO055 9 degrees-of-freedom (DOF) MEMS IMU.
-[AUV Localization: Code]()
 
-[Final Report]()
+[AUV Localization: Open Loop DR Implementation](https://github.com/ryangochar/AUVlocalization/blob/main/AUV_OpenLoopDR_Final.ipynb)
 
-[Final Presentation]()
+[Matlab Code]()
+
+[Final Report](https://github.com/ryangochar/AUVlocalization/blob/main/AUVlocalization%20-%20Final%20Report%20-%20DavisB%20GocharR.pdf)
+
+[Final Presentation](https://github.com/ryangochar/AUVlocalization/blob/main/AUV%20Localization%20Presentation.pdf)
 
 
 ## Getting Started 
@@ -15,11 +18,12 @@ Numpy
 Pandas
 matplotlib
 pykalman
+utm
 
 ## Usage
-Excecute code [here]()
+Excecute code [here](https://github.com/ryangochar/AUVlocalization/blob/main/AUV_OpenLoopDR_Final.ipynb)
 
-Dataset: [Bosch BNO055 IMU Data]()
+Dataset: [Bosch BNO055 IMU Data](https://github.com/ryangochar/AUVlocalization/tree/main/2023-11-17-15-11-06)
 
 Project can be run exactly as is. All sections are labeled. 
 
@@ -28,5 +32,6 @@ Distributed under the University of Florida licinse.
 
 ## Authors
 Ryan Gochar - ryangochar@ufl.edu
+Brandon Davis - brandon.davis1@ufl.edu
 
 ## Thank You! 
