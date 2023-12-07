@@ -1,4 +1,4 @@
-# <ins About The Project </ins>
+# <ins> About The Project </ins>
 This project seeks to create a dead reckoning algorithm for AUV localization using an IMU, also exploring into the performance with the integration of other inputs, position and velocity updates with GPS and DVL.  The dataset is simulated IMU data using the parameters of the Bosch BNO055 9 degrees-of-freedom (DOF) MEMS IMU.
 
 [AUV Localization: Open Loop DR Implementation](https://github.com/ryangochar/AUVlocalization/blob/main/AUV_OpenLoopDR_Final.ipynb)
